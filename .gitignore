@@ -1,0 +1,4 @@
+# don't track created pictures
+*.png
+# don't track ipynb checkpoints
+.ipynb_checkpoints
