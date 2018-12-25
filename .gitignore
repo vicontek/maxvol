@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 maxvol-env
 .*
 datasets/*
+=======
+# don't track created pictures
+*.png
+# don't track ipynb checkpoints
+.ipynb_checkpoints
+>>>>>>> 1c25c0062c77a6acf3b2961a36807a79776990b1
