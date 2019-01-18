@@ -18,6 +18,6 @@ The project was performed by the team of four people:
 * Mirfarid Musavian **@mirfaridmusavian**
 
 ## Prerequisites
-In addition to the common numerical and ML packages shuch as `scipy` and 'sklearn', you need to install `maxvolpy` package:
+In addition to the common numerical and ML packages shuch as `scipy` and `sklearn`, you need to install `maxvolpy` package:
 
 ``pip3 install maxvolpy``
