@@ -16,3 +16,8 @@ The project was performed by the team of four people:
 * Ivan Golovatskikh **@vicontek**
 * Maria Sindeeva **@lapsya**
 * Mirfarid Musavian **@mirfaridmusavian**
+
+## Prerequites
+In addition to the common numerical and ML packages shuch as `scipy` and 'sklearn', you need to install `maxvolpy` package:
+
+``pip3 install maxvolpy``
